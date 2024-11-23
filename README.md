@@ -1,2 +1,2 @@
 # ml_zoomcamp_midterm_project
-Please check presentation file for all the detailes.
+Please check file 'ml_midterm_project.pdf' for all the detailes.
